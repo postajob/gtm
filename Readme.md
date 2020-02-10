@@ -1,0 +1,1 @@
+https://developers.google.com/tag-manager/templates/gallery#add_categories_to_templatetpl
